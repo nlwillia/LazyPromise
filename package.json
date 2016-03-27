@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Promise wrapper that delays execution of a payload until then is called.",
   "main": "LazyPromise.js",
-  "keywords": ['lazypromise', 'lazy-promise', 'promise', 'lazy', 'lazythen', 'lazycatch'],
+  "keywords": ["lazypromise", "lazy-promise", "promise", "lazy", "lazythen", "lazycatch"],
   "author": "Nathan Williams <nlwillia@gmail.com> (https://github.com/nlwillia/LazyPromise)",
   "license": "MIT"
 }
