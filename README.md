@@ -1,0 +1,2 @@
+# LazyPromise
+Lazy promise wrapper
